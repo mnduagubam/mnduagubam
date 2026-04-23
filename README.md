@@ -16,7 +16,7 @@ A Computer Science student at Middlesex College transitioning into the same fiel
 **Java | Data Structures**  
 
 - Implemented a hybrid data structure using arrays and linked lists to efficiently manage course scheduling operations (add/drop/search).  
-- Repository: [Student Scheduler](https://github.com/mnduagubam/student-scheduling-system).
+- Repository: [Student Scheduler](https://github.com/mnduagubam/student-course-registration-system).
 
 ### Restaurant Ordering System
 **Java | OOP** 
