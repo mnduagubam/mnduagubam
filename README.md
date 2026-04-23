@@ -7,7 +7,7 @@ A Computer Science student at Middlesex College transitioning into the same fiel
 ## Projects
 
 ### Vending Machine System
-**Java | Data Structures**  
+**Java | OOP**  
 
 - Simulated a vending machine using object-oriented programming, loop constructs, exception handling, and inheritance.  
 - Repository: [Vending Machine System](https://github.com/mnduagubam/vending-machine-system)
@@ -16,6 +16,13 @@ A Computer Science student at Middlesex College transitioning into the same fiel
 **Java | Data Structures**  
 
 - Implemented a hybrid data structure using arrays and linked lists to efficiently manage course scheduling operations (add/drop/search).  
+- Repository: [Student Scheduler](https://github.com/mnduagubam/student-scheduling-system).
+
+### Restaurant Ordering System
+**Java | OOP** 
+
+- Simulated a menu-ordering program using object-oriented programming, enumerations, and inheritance.
+- Repository: [Ordering System](https://github.com/mnduagubam/restaurant-menu-order-system).
 
 ---
 
